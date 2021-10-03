@@ -19,10 +19,16 @@ I'm looking for highly motivated Ph.D. students with strong mathematical backgro
 
 == News
 
+- New paper "Clustering a mixture of Gaussians with unknown covariance" posted on arXiv.
 - I am an Area Chair of NeurIPS 2021.
+- I am organizing two sessions on federated and multitask learning at the 2021 INFORMS Annual Meeting.
 
 == Representative Publications
 
+- Clustering a mixture of Gaussians with unknown covariance\n
+Damek Davis, Mateo Díaz, Kaizheng Wang ($\alpha$-$\beta$)\n
+Submitted, 2021.\n
+\n
 - An $\ell_p$ theory of PCA and spectral clustering\n
 Emmanuel Abbe, Jianqing Fan, Kaizheng Wang ($\alpha$-$\beta$)\n
 ArXiv preprint arXiv:2006.14062, 2020.\n
