@@ -1,0 +1,85 @@
+# jemdoc: menu{menu}{research.html}
+= Research Interests
+
+. Integrative data analysis: multi-task learning, meta-learning and transfer learning;. Latent variable models and representation learning;. Non-convex optimization and distributed optimization.
+
+
+= Papers and Preprints
+
+$\alpha$-$\beta$: Author names are sorted alphabetically.\n
+
+2021\n
+- Modern data modeling: Cross-fertilization of the two cultures\n
+Jianqing Fan, Cong Ma, Kaizheng Wang, Ziwei Zhu ($\alpha$-$\beta$)\n
+*Observational Studies* 7 (1): 65-76, 2021.\n
+\n
+
+2020\n
+- Comment on "A tuning-free robust and efficient approach to high-dimensional regression"\n
+Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
+*Journal of the American Statistical Association* 115 (532): 1720-1725, 2020.\n
+\n
+- An $\ell_p$ theory of PCA and spectral clustering\n
+Emmanuel Abbe, Jianqing Fan, Kaizheng Wang ($\alpha$-$\beta$)\n
+ArXiv preprint arXiv:2006.14062, 2020.\n
+\n
+- Efficient clustering for stretched mixtures: landscape and optimality\n
+Kaizheng Wang, Yuling Yan, Mateo Díaz\n
+*Advances in Neural Information Processing Systems (NeurIPS)*, 2020.\n
+\n
+
+2019\n
+- Communication-efficient accurate statistical estimation\n
+Jianqing Fan, Yongyi Guo, Kaizheng Wang ($\alpha$-$\beta$)\n
+*Journal of the American Statistical Association*, Accepted.\n
+ArXiv preprint arXiv:1906.04870, 2019.\n
+\n
+
+2018\n
+- Robust high dimensional factor models with applications to statistical machine learning\n
+Jianqing Fan, Kaizheng Wang, Yiqiao Zhong, Ziwei Zhu ($\alpha$-$\beta$)\n
+*Statistical Science*, 36 (2): 303-327, 2021.\n
+\n
+
+2017\n
+- Implicit regularization in nonconvex statistical estimation: Gradient descent converges linearly for phase retrieval, matrix completion and blind deconvolution\n
+Cong Ma, Kaizheng Wang, Yuejie Chi, Yuxin Chen\n
+*Foundations of Computational Mathematics* 20 (3): 451–632, 2020.\n
+Short version accepted by International Conference on Machine Learning (ICML), 2018.\n
+\n
+- Entrywise eigenvector analysis of random matrices with low expected rank\n
+Emmanuel Abbe, Jianqing Fan, Kaizheng Wang, Yiqiao Zhong ($\alpha$-$\beta$)\n
+*Annals of Statistics* 48(3): 1452-1474, 2020.\n
+\n
+- Spectral method and regularized MLE are both optimal for Top-K ranking\n
+Yuxin Chen, Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
+*Annals of Statistics* 47 (4): 2204-2235, 2019.\n
+\n
+- Distributed estimation of principal eigenspaces\n
+Jianqing Fan, Dong Wang, Kaizheng Wang, Ziwei Zhu ($\alpha$-$\beta$)\n
+*Annals of Statistics* 47 (6): 3009-3031, 2019.\n
+\n
+
+2016\n
+- Factor-adjusted regularized model selection\n
+Jianqing Fan, Yuan Ke, Kaizheng Wang ($\alpha$-$\beta$)\n
+*Journal of Econometrics* 216 (1): 71-85, 2020.\n
+\n
+- Stochastic representations for the wave equation on graphs and their scaling limits\n
+Kaizheng Wang\n
+*Journal of Mathematical Analysis and Applications* 449 (1): 808-828, 2017.\n
+\n
+
+2014\n
+- On the Neumann problem for harmonic functions in the upper half plane\n
+Kaizheng Wang\n
+*Journal of Mathematical Analysis and Applications* 419 (2): 839-848, 2014.\n
+\n
+
+
+Note\n
+- Some compact notations for concentration inequalities and user-friendly results\n
+Kaizheng Wang\n
+ArXiv preprint arXiv:1912.13463, 2019.\n
+
+

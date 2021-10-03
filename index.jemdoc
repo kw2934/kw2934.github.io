@@ -1,0 +1,50 @@
+# jemdoc: menu{menu}{default.html}
+= Kaizheng Wang
+
+~~~
+{}{img_left}{Photo/KW.JPG}{alt text}{249.15}{332.2}
+
+I am an assistant professor at the Department of [https://www.ieor.columbia.edu/ Industrial Engineering and Operations Research] at Columbia University. My research interests lie at the intersection of statistics, machine learning and optimization.\n
+\n
+E-mail: /kaizheng.wang/ \[@\] columbia \[DOT\] edu
+\n
+[https://scholar.google.com/citations?user=GWkwfBIAAAAJ&hl=en Google Scholar]
+\n
+[CV/CV.pdf Resume]
+~~~
+
+== Openings
+
+I'm looking for highly motivated Ph.D. students with strong mathematical background and interest in statistics, machine learning and optimization.
+
+== News
+
+- I am an Area Chair of NeurIPS 2021.
+
+== Representative Publications
+
+- An $\ell_p$ theory of PCA and spectral clustering\n
+Emmanuel Abbe, Jianqing Fan, Kaizheng Wang ($\alpha$-$\beta$)\n
+ArXiv preprint arXiv:2006.14062, 2020.\n
+\n
+- Efficient clustering for stretched mixtures: landscape and optimality\n
+Kaizheng Wang, Yuling Yan, Mateo Díaz\n
+*Advances in Neural Information Processing Systems (NeurIPS)*, 2020.\n
+\n
+- Entrywise eigenvector analysis of random matrices with low expected rank\n
+Emmanuel Abbe, Jianqing Fan, Kaizheng Wang, Yiqiao Zhong ($\alpha$-$\beta$)\n
+*Annals of Statistics* 48(3): 1452-1474, 2020.\n
+\n
+- Implicit regularization in nonconvex statistical estimation: Gradient descent converges linearly for phase retrieval, matrix completion and blind deconvolution\n
+Cong Ma, Kaizheng Wang, Yuejie Chi, Yuxin Chen\n
+*Foundations of Computational Mathematics* 20 (3): 451–632, 2020.\n
+\n
+- Distributed estimation of principal eigenspaces\n
+Jianqing Fan, Dong Wang, Kaizheng Wang, Ziwei Zhu ($\alpha$-$\beta$)\n
+*Annals of Statistics* 47 (6): 3009-3031, 2019.\n
+\n
+- Spectral method and regularized MLE are both optimal for Top-K ranking\n
+Yuxin Chen, Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
+*Annals of Statistics* 47 (4): 2204-2235, 2019.\n
+\n
+$\alpha$-$\beta$: Author names are sorted alphabetically.
