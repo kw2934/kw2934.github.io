@@ -18,13 +18,18 @@ E-mail: /kaizheng.wang/ \[@\] columbia \[DOT\] edu
 I'm looking for highly motivated Ph.D. students with strong mathematical background and interest in statistics, machine learning and optimization.
 
 == News
+- New paper "Adaptive and robust multi-task learning" posted on [https://arxiv.org/abs/2202.05250 arXiv].
 - I am chairing the cluster on Machine Learning at the 2022 CORS-INFORMS International Conference. Contact me if you are interested in organizing a session!
 - New paper "Clustering a mixture of Gaussians with unknown covariance" posted on [https://arxiv.org/abs/2110.01602 arXiv].
 - I am an Area Chair of NeurIPS 2021.
-- I am organizing two sessions on federated and multitask learning at the 2021 INFORMS Annual Meeting.
+- I am organizing two sessions on federated and multi-task learning at the 2021 INFORMS Annual Meeting.
 
 == Representative Publications
 
+- Adaptive and robust multi-task learning\n
+Yaqi Duan, Kaizheng Wang ($\alpha$-$\beta$)\n
+ArXiv preprint arXiv:2202.05250, 2022.\n
+\n
 - Clustering a mixture of Gaussians with unknown covariance\n
 Damek Davis, Mateo Díaz, Kaizheng Wang ($\alpha$-$\beta$)\n
 ArXiv preprint arXiv:2110.01602, 2021.\n
