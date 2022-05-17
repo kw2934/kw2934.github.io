@@ -1,32 +1,29 @@
 # jemdoc: menu{menu}{talks.html}
-= Invited Talks
+= Invited Talks and Visits
 
-== Adaptive and robust multi-task learning\n
-- Seminar on Statistics and Data Science, Hong Kong University of Science and Technology, Apr. 2022
-- Research School of Finance, Actuarial Studies and Statistics, Australian National University, Mar. 2022
-- Department of Applied Physics and Applied Mathematics, Columbia University, Feb. 2022
-- Department of Statistics, Columbia University, Feb. 2022
-\n
-== Clustering a mixture of Gaussians with unknown covariance\n
-- INFORMS Annual Meeting, Oct. 2021
-- Department of Statistics and Probability, Michigan State University, Sep. 2021
-\n
-== An $\ell_p$ analysis of PCA and spectral clustering\n
-- ICSA 2022 China Conference, Jul. 2022
-- ICSA 2021 Applied Statistics Symposium, Sep. 2021
-- Seminar on Statistics and Data Science, Hong Kong University of Science and Technology, Mar. 2020
-\n
-== Efficient clustering for stretched mixtures: landscape and optimality\n
-- Joint Statistical Meetings, Aug. 2021
-- Department of Mathematics, University of California – San Diego, Mar. 2021
-- INFORMS Annual Meeting, Nov. 2020
+2022\n
+- The 15th International Conference of the ERCIM Working Group on Computational and Methodological Statistics (CMStatistics), Dec. 2022\n
+- INFORMS Annual Meeting, Oct. 2022\n
+- ICSA 2022 China Conference, Jul. 2022\n
+- The 11th World Congress of the Bachelier Finance Society (BFS), Jun. 2022\n
+- The 35th New England Statistics Symposium (NESS), May. 2022\n
+- Oberwolfach Workshop: Re-thinking High-dimensional Mathematical Statistics, Mathematisches Forschungsinstitut Oberwolfach, May. 2022\n
+- Discussion meeting [https://arxiv.org/abs/2004.05387 (paper)], Royal Statistical Society, May. 2022\n
+- Discussion [https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-1/Testing-equivalence-of-clustering/10.1214/21-AOS2113.short (paper)], International Seminar on Selective Inference, Apr. 2022\n
+- Seminar on Statistics and Data Science, Hong Kong University of Science and Technology, Apr. 2022\n
+- Research School of Finance, Actuarial Studies and Statistics, Australian National University, Mar. 2022\n
+- Department of Applied Physics and Applied Mathematics, Columbia University, Feb. 2022\n
+- Department of Statistics, Columbia University, Feb. 2022\n
 
-= Invited Discussions
+2021\n
+- INFORMS Annual Meeting, Oct. 2021\n
+- Department of Statistics and Probability, Michigan State University, Sep. 2021\n
+- ICSA 2021 Applied Statistics Symposium, Sep. 2021\n
+- Joint Statistical Meetings (JSM), Aug. 2021\n
+- Department of Mathematics, University of California – San Diego, Mar. 2021\n
 
-- Discussion meeting, Royal Statistical Society, May. 2022\n
-Paper: Rohe and Zeng, Vintage Factor Analysis with Varimax Performs Statistical Inference.\n
-\n
+2020\n
+- Thirty-fourth Annual Conference on Neural Information Processing Systems (NeurIPS), Dec. 2020\n
+- INFORMS Annual Meeting, Nov. 2020\n
 
-- International Seminar on Selective Inference [https://www.selectiveinferenceseminar.com/ (link)], Apr. 2022\n
-Paper: Gao and Ma, Testing equivalence of clustering.
 
