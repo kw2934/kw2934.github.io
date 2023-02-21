@@ -14,19 +14,23 @@ Interesting quotes:
 $\alpha$-$\beta$: Author names are sorted alphabetically.\n
 
 2023\n
+- Pseudo-labeling for Kernel Ridge Regression under Covariate Shift.\n
+Kaizheng Wang\n
+[https://arxiv.org/abs/2302.10160 arXiv] preprint arXiv: 2302.10160, 2023.\n
+\n
 - Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow.\n
 Yuling Yan$*$, Kaizheng Wang$*$, Philippe Rigollet ($*$ = equal contribution)\n
-[https://arxiv.org/abs/2301.01766 ArXiv] preprint arXiv: 2301.01766, 2023.\n
+[https://arxiv.org/abs/2301.01766 arXiv] preprint arXiv: 2301.01766, 2023.\n
 \n
 
 2022\n
 - Variable Clustering via Distributionally Robust Nodewise Regression.\n
 Kaizheng Wang, Xiao Xu, Xun Yu Zhou ($\alpha$-$\beta$)\n
-[https://arxiv.org/abs/2212.07944/ ArXiv] preprint arXiv:2212.07944, 2022.\n
+[https://arxiv.org/abs/2212.07944/ arXiv] preprint arXiv:2212.07944, 2022.\n
 \n
 - Adaptive Data Fusion for Multi-task Non-smooth Optimization.\n
 Henry Lam, Kaizheng Wang, Yuhang Wu, Yichen Zhang ($\alpha$-$\beta$)\n
-[https://arxiv.org/abs/2210.12334/ ArXiv] preprint arXiv:2210.12334, 2022.\n
+[https://arxiv.org/abs/2210.12334/ arXiv] preprint arXiv:2210.12334, 2022.\n
 \n
 - Discussion of "Vintage factor analysis with Varimax performs statistical inference"\n
 Kaizheng Wang\n
@@ -34,14 +38,14 @@ Kaizheng Wang\n
 \n
 - Adaptive and robust multi-task learning\n
 Yaqi Duan, Kaizheng Wang ($\alpha$-$\beta$)\n
-[https://arxiv.org/abs/2202.05250/ ArXiv] preprint arXiv:2202.05250, 2022.\n
+[https://arxiv.org/abs/2202.05250/ arXiv] preprint arXiv:2202.05250, 2022.\n
 [https://github.com/kw2934/ARMUL/ Code]\n
 \n
 
 2021\n
 - Clustering a mixture of Gaussians with unknown covariance\n
 Damek Davis, Mateo Díaz, Kaizheng Wang ($\alpha$-$\beta$)\n
-[https://arxiv.org/abs/2110.01602/ ArXiv] preprint arXiv:2110.01602, 2021.\n
+[https://arxiv.org/abs/2110.01602/ arXiv] preprint arXiv:2110.01602, 2021.\n
 \n
 - Modern data modeling: Cross-fertilization of the two cultures\n
 Jianqing Fan, Cong Ma, Kaizheng Wang, Ziwei Zhu ($\alpha$-$\beta$)\n
@@ -57,26 +61,26 @@ Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
 Emmanuel Abbe, Jianqing Fan, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Annals of Statistics* 50(4): 2359-2385, 2022.\n
 Presented by Jianqing Fan at the *IMS Le Cam Lecture* at the 2021 Joint Statistical Meetings.\n
-[https://arxiv.org/abs/2006.14062 ArXiv]\n
+[https://arxiv.org/abs/2006.14062 arXiv]\n
 \n
 - Efficient clustering for stretched mixtures: landscape and optimality\n
 Kaizheng Wang, Yuling Yan, Mateo Díaz\n
 *Advances in Neural Information Processing Systems (NeurIPS)*, 2020.\n
-[https://arxiv.org/abs/2003.09960 ArXiv]\n
+[https://arxiv.org/abs/2003.09960 arXiv]\n
 \n
 
 2019\n
 - Communication-efficient accurate statistical estimation\n
 Jianqing Fan, Yongyi Guo, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Journal of the American Statistical Association*, Accepted, 2021.\n
-[https://arxiv.org/abs/1906.04870 ArXiv]\n
+[https://arxiv.org/abs/1906.04870 arXiv]\n
 \n
 
 2018\n
 - Robust high dimensional factor models with applications to statistical machine learning\n
 Jianqing Fan, Kaizheng Wang, Yiqiao Zhong, Ziwei Zhu ($\alpha$-$\beta$)\n
 *Statistical Science*, 36 (2): 303-327, 2021.\n
-[https://arxiv.org/abs/1808.03889 ArXiv]\n
+[https://arxiv.org/abs/1808.03889 arXiv]\n
 \n
 
 2017\n
@@ -84,34 +88,34 @@ Jianqing Fan, Kaizheng Wang, Yiqiao Zhong, Ziwei Zhu ($\alpha$-$\beta$)\n
 Cong Ma, Kaizheng Wang, Yuejie Chi, Yuxin Chen\n
 *Foundations of Computational Mathematics* 20 (3): 451–632, 2020.\n
 Short version accepted by International Conference on Machine Learning (ICML), 2018.\n
-[https://arxiv.org/abs/1711.10467 ArXiv]\n
+[https://arxiv.org/abs/1711.10467 arXiv]\n
 \n
 - Entrywise eigenvector analysis of random matrices with low expected rank\n
 Emmanuel Abbe, Jianqing Fan, Kaizheng Wang, Yiqiao Zhong ($\alpha$-$\beta$)\n
 *Annals of Statistics* 48(3): 1452-1474, 2020.\n
-[https://arxiv.org/abs/1709.09565 ArXiv]\n
+[https://arxiv.org/abs/1709.09565 arXiv]\n
 \n
 - Spectral method and regularized MLE are both optimal for Top-K ranking\n
 Yuxin Chen, Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Annals of Statistics* 47 (4): 2204-2235, 2019.\n
-[https://arxiv.org/abs/1707.09971 ArXiv]\n
+[https://arxiv.org/abs/1707.09971 arXiv]\n
 \n
 - Distributed estimation of principal eigenspaces\n
 Jianqing Fan, Dong Wang, Kaizheng Wang, Ziwei Zhu ($\alpha$-$\beta$)\n
 *Annals of Statistics* 47 (6): 3009-3031, 2019.\n
-[https://arxiv.org/abs/1702.06488 ArXiv]\n
+[https://arxiv.org/abs/1702.06488 arXiv]\n
 \n
 
 2016\n
 - Factor-adjusted regularized model selection\n
 Jianqing Fan, Yuan Ke, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Journal of Econometrics* 216 (1): 71-85, 2020.\n
-[https://arxiv.org/abs/1612.08490 ArXiv]\n
+[https://arxiv.org/abs/1612.08490 arXiv]\n
 \n
 - Stochastic representations for the wave equation on graphs and their scaling limits\n
 Kaizheng Wang\n
 *Journal of Mathematical Analysis and Applications* 449 (1): 808-828, 2017.\n
-[https://arxiv.org/abs/1612.09025 ArXiv]\n
+[https://arxiv.org/abs/1612.09025 arXiv]\n
 \n
 
 2014\n
@@ -124,6 +128,6 @@ Kaizheng Wang\n
 Note\n
 - Some compact notations for concentration inequalities and user-friendly results\n
 Kaizheng Wang\n
-[https://arxiv.org/abs/1912.13463 ArXiv] preprint arXiv:1912.13463, 2019.\n
+[https://arxiv.org/abs/1912.13463 arXiv] preprint arXiv:1912.13463, 2019.\n
 
 

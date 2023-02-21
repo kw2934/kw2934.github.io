@@ -19,6 +19,7 @@ I'm looking for highly motivated Ph.D. students with strong mathematical backgro
 
 == News
 
+- New paper "Pseudo-labeling for Kernel Ridge Regression under Covariate Shift" posted on [https://arxiv.org/abs/2302.10160 arXiv].
 - I will be an Area Chair of ICML 2023.
 - Undergraduate student Sara Zhao received the prestigious Stephen D. Guarino Memorial Award, which is made annually to one member of the senior class of IEOR. Congratulations!
 - I will be an Area Chair of NeurIPS 2022.
@@ -26,50 +27,47 @@ I'm looking for highly motivated Ph.D. students with strong mathematical backgro
 - New paper "Adaptive and robust multi-task learning" posted on [https://arxiv.org/abs/2202.05250 arXiv].
 - I will be chairing a cluster on Machine Learning at the 2022 CORS-INFORMS International Conference.
 - New paper "Clustering a mixture of Gaussians with unknown covariance" posted on [https://arxiv.org/abs/2110.01602 arXiv].
-- I am an Area Chair of NeurIPS 2021.
-- I am organizing two sessions on federated and multi-task learning at the 2021 INFORMS Annual Meeting.
 
 == Representative Publications
 
+- Pseudo-labeling for Kernel Ridge Regression under Covariate Shift.\n
+Kaizheng Wang\n
+[https://arxiv.org/abs/2302.10160 arXiv] preprint arXiv: 2302.10160, 2023.\n
+\n
 - Adaptive and robust multi-task learning\n
 Yaqi Duan, Kaizheng Wang ($\alpha$-$\beta$)\n
-[https://arxiv.org/abs/2202.05250/ ArXiv] preprint arXiv:2202.05250, 2022.\n
+[https://arxiv.org/abs/2202.05250/ arXiv] preprint arXiv:2202.05250, 2022.\n
 [https://github.com/kw2934/ARMUL/ Code]\n
 \n
 - Clustering a mixture of Gaussians with unknown covariance\n
 Damek Davis, Mateo Díaz, Kaizheng Wang ($\alpha$-$\beta$)\n
-[https://arxiv.org/abs/2110.01602/ ArXiv] preprint arXiv:2110.01602, 2021.\n
+[https://arxiv.org/abs/2110.01602/ arXiv] preprint arXiv:2110.01602, 2021.\n
 \n
 - An $\ell_p$ theory of PCA and spectral clustering\n
 Emmanuel Abbe, Jianqing Fan, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Annals of Statistics* 50(4): 2359-2385, 2022.\n
 Presented by Jianqing Fan at the *IMS Le Cam Lecture* at the 2021 Joint Statistical Meetings.\n
-[https://arxiv.org/abs/2006.14062 ArXiv]\n
-\n
-- Efficient clustering for stretched mixtures: landscape and optimality\n
-Kaizheng Wang, Yuling Yan, Mateo Díaz\n
-*Advances in Neural Information Processing Systems (NeurIPS)*, 2020.\n
-[https://arxiv.org/abs/2003.09960 ArXiv]\n
+[https://arxiv.org/abs/2006.14062 arXiv]\n
 \n
 - Entrywise eigenvector analysis of random matrices with low expected rank\n
 Emmanuel Abbe, Jianqing Fan, Kaizheng Wang, Yiqiao Zhong ($\alpha$-$\beta$)\n
 *Annals of Statistics* 48(3): 1452-1474, 2020.\n
-[https://arxiv.org/abs/1709.09565 ArXiv]\n
+[https://arxiv.org/abs/1709.09565 arXiv]\n
 \n
 - Implicit regularization in nonconvex statistical estimation: Gradient descent converges linearly for phase retrieval, matrix completion and blind deconvolution\n
 Cong Ma, Kaizheng Wang, Yuejie Chi, Yuxin Chen\n
 *Foundations of Computational Mathematics* 20 (3): 451–632, 2020.\n
-[https://arxiv.org/abs/1711.10467 ArXiv]\n
+[https://arxiv.org/abs/1711.10467 arXiv]\n
 \n
 - Distributed estimation of principal eigenspaces\n
 Jianqing Fan, Dong Wang, Kaizheng Wang, Ziwei Zhu ($\alpha$-$\beta$)\n
 *Annals of Statistics* 47 (6): 3009-3031, 2019.\n
-[https://arxiv.org/abs/1702.06488 ArXiv]\n
+[https://arxiv.org/abs/1702.06488 arXiv]\n
 \n
 - Spectral method and regularized MLE are both optimal for Top-K ranking\n
 Yuxin Chen, Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Annals of Statistics* 47 (4): 2204-2235, 2019.\n
-[https://arxiv.org/abs/1707.09971 ArXiv]\n
+[https://arxiv.org/abs/1707.09971 arXiv]\n
 \n
 $\alpha$-$\beta$: Author names are sorted alphabetically.
 
