@@ -3,11 +3,6 @@
 
 . Integrative data analysis: multi-task learning, meta-learning and transfer learning;. Latent variable models and representation learning;. Non-convex optimization and distributed optimization.
 
-Interesting quotes:
-
-- All models are wrong, but some are useful. -- George E. P. Box
-- Theory is the first term in the Taylor series expansion of practice. -- Thomas M. Cover 
-
 
 = Papers and Preprints
 
@@ -72,14 +67,14 @@ Kaizheng Wang, Yuling Yan, Mateo Díaz\n
 2019\n
 - Communication-Efficient Accurate Statistical Estimation\n
 Jianqing Fan, Yongyi Guo, Kaizheng Wang ($\alpha$-$\beta$)\n
-*Journal of the American Statistical Association*, Accepted, 2021.\n
+*Journal of American Statistical Association* 118 (542): 1000-1010, 2023.\n
 [https://arxiv.org/abs/1906.04870 arXiv]\n
 \n
 
 2018\n
 - Robust High Dimensional Factor Models with Applications to Statistical Machine Learning\n
 Jianqing Fan, Kaizheng Wang, Yiqiao Zhong, Ziwei Zhu ($\alpha$-$\beta$)\n
-*Statistical Science*, 36 (2): 303-327, 2021.\n
+*Statistical Science* 36 (2): 303-327, 2021.\n
 [https://arxiv.org/abs/1808.03889 arXiv]\n
 \n
 
