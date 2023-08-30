@@ -19,12 +19,13 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 
 == News
 
+- Paper "Adaptive and Robust Multi-Task learning" accepted by the Annals of Statistics.
 - New paper "Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift" posted on [https://arxiv.org/abs/2302.10160 arXiv].
 - I will be an Area Chair of ICML 2023.
 - Undergraduate student Sara Zhao received the prestigious Stephen D. Guarino Memorial Award, which is made annually to one member of the senior class of IEOR. Congratulations!
 - I will be an Area Chair of NeurIPS 2022.
 - I am organizing one session on integrative data analysis in operations research at the 2022 INFORMS Annual Meeting.
-- New paper "Adaptive and Robust Multi-Task learning" posted on [https://arxiv.org/abs/2202.05250 arXiv].
+
 
 == Representative Publications
 
@@ -34,7 +35,8 @@ Kaizheng Wang\n
 \n
 - Adaptive and Robust Multi-Task Learning\n
 Yaqi Duan, Kaizheng Wang ($\alpha$-$\beta$)\n
-[https://arxiv.org/abs/2202.05250/ arXiv] preprint arXiv:2202.05250, 2022.\n
+*Annals of Statistics*, 2023+.\n
+[https://arxiv.org/abs/2202.05250/ arXiv]\n
 [https://github.com/kw2934/ARMUL/ Code]\n
 \n
 - Clustering a Mixture of Gaussians with Unknown Covariance\n
