@@ -6,11 +6,12 @@
 
 = Papers and Preprints
 
-$\alpha$-$\beta$: Author names are sorted alphabetically.\n
+($\alpha$-$\beta$: author names are sorted alphabetically; $\dagger$: student/postdoc supervised.)\n
+\n
 
 2023\n
 - A Stability Principle for Learning under Non-Stationarity.\n
-Chengpiao Huang, Kaizheng Wang ($\alpha$-$\beta$)\n
+Chengpiao Huang$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
 [https://arxiv.org/abs/2310.18304/ arXiv] preprint arXiv:2310.18304, 2023.\n
 \n
 - Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift.\n
@@ -28,7 +29,7 @@ Kaizheng Wang, Xiao Xu, Xun Yu Zhou ($\alpha$-$\beta$)\n
 [https://arxiv.org/abs/2212.07944/ arXiv] preprint arXiv:2212.07944, 2022.\n
 \n
 - Adaptive Data Fusion for Multi-Task Non-Smooth Optimization.\n
-Henry Lam, Kaizheng Wang, Yuhang Wu, Yichen Zhang ($\alpha$-$\beta$)\n
+Henry Lam, Kaizheng Wang, Yuhang Wu$\dagger$, Yichen Zhang ($\alpha$-$\beta$)\n
 [https://arxiv.org/abs/2210.12334/ arXiv] preprint arXiv:2210.12334, 2022.\n
 \n
 - Discussion of "Vintage Factor Analysis with Varimax Performs Statistical Inference"\n
