@@ -19,6 +19,7 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 
 == News
 
+- Our proposal on policy evaluation, transfer learning and the safety of autonomous vehicles got awarded the Data Science Institute Seed Fund by Columbia University.
 - Our [https://link.springer.com/article/10.1007/s10208-019-09429-9 paper] on implicit regularization in nonconvex statistical estimation received the [https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-imaging-science-best-paper-prize SIAM Activity Group on Imaging Science Best Paper Prize].
 - I will be an Area Chair of ICML 2024.
 - New paper "A Stability Principle for Learning under Non-Stationarity" posted on [https://arxiv.org/abs/2310.18304 arXiv]. Congratulations to Chengpiao Huang on his first paper!
@@ -84,9 +85,11 @@ Yuxin Chen, Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
 
 == Funding
 
-Support from the following funding source is gratefully acknowledged:
+Support from the following funding sources are gratefully acknowledged:
 
 - National Science Foundation (NSF) Grant DMS-2210907. Title: "Statistical and Computational Tools for Analyzing High-Dimensional Heterogeneous Data". Duration: Aug 2022 – Jul 2025. Role: PI.
+
+- Columbia University Data Science Institute Seed Fund. Title: "Policy Evaluation with Transfer Learning: How to assess safety performance of self-driving cars in NYC?". Duration: Mar 2024 - Feb 2025. Role: PI.
 
 
 == Miscellaneous
