@@ -10,6 +10,10 @@
 \n
 
 2024\n
+- Distribution-Free Predictive Inference under Unknown Temporal Drift.\n
+Elise Han$\dagger$, Chengpiao Huang$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
+[https://arxiv.org/abs/2406.06516/ arXiv] preprint arXiv:2406.06516, 2024.~~~~~~[https://github.com/eliselyhan/predictive-inference Code]\n
+\n
 - Model Assessment and Selection under Temporal Distribution Shift.\n
 Elise Han$\dagger$, Chengpiao Huang$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
 *International Conference on Machine Learning*, 2024.\n
