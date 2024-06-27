@@ -19,6 +19,7 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 
 == News
 
+- Paper "Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow" accepted by the Annals of Statistics.
 - New paper "Distribution-Free Predictive Inference under Unknown Temporal Drift" posted on [https://arxiv.org/abs/2406.06516 arXiv].
 - Paper "Model Assessment and Selection under Temporal Distribution Shift" accepted by ICML 2024. Congratulations to undergraduate student Elise Han on her first paper!
 - Our proposal on policy evaluation, transfer learning and the safety of autonomous vehicles got awarded the Data Science Institute Seed Fund by Columbia University.
@@ -27,7 +28,6 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 - New paper "A Stability Principle for Learning under Non-Stationarity" posted on [https://arxiv.org/abs/2310.18304 arXiv]. Congratulations to Chengpiao Huang on his first paper!
 - Our team (Chengpiao Huang, Yuhang Wu, and myself) won the *Second Place Award* in the [https://sites.google.com/view/dmdaworkshop2023/data-challenge 2023 INFORMS Blue Summit Supplies Data Challenge], along with a $1,000 cash prize. We also clinched the *top spot* in the two-week live test of pricing and forecasting with our own data integration techniques (Papers [https://arxiv.org/abs/2202.05250/ 1] and [https://arxiv.org/abs/2310.18304/ 2]). Special thanks to the INFORMS Data Mining Society and Blue Summit Supplies for putting together this wonderful competition!
 - I will serve on the senior program committee of COLT 2024.
-- Paper "Adaptive and Robust Multi-Task Learning" accepted by the Annals of Statistics.
 - Undergraduate student Yuhang Wu started his PhD at the Decision, Risk, and Operations (DRO) division at Columbia Business School. Congratulations!
 - New paper "Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift" posted on [https://arxiv.org/abs/2302.10160 arXiv].
 - I will be an Area Chair of ICML 2023.
