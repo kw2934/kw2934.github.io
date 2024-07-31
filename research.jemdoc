@@ -58,6 +58,7 @@ Yaqi Duan, Kaizheng Wang ($\alpha$-$\beta$)\n
 2021\n
 - Clustering a Mixture of Gaussians with Unknown Covariance\n
 Damek Davis, Mateo Díaz, Kaizheng Wang ($\alpha$-$\beta$)\n
+*Bernoulli*, Accepted.\n
 [https://arxiv.org/abs/2110.01602/ arXiv] preprint arXiv:2110.01602, 2021.\n
 \n
 - Modern Data Modeling: Cross-Fertilization of the Two Cultures\n
@@ -78,7 +79,7 @@ Presented by Jianqing Fan at the *IMS Le Cam Lecture* at the 2021 Joint Statisti
 \n
 - Efficient Clustering for Stretched Mixtures: Landscape and Optimality\n
 Kaizheng Wang, Yuling Yan, Mateo Díaz\n
-*Advances in Neural Information Processing Systems (NeurIPS)*, 2020.\n
+*Neural Information Processing Systems*, 2020.\n
 [https://arxiv.org/abs/2003.09960 arXiv]\n
 \n
 
@@ -100,7 +101,7 @@ Jianqing Fan, Kaizheng Wang, Yiqiao Zhong, Ziwei Zhu ($\alpha$-$\beta$)\n
 - Implicit Regularization in Nonconvex Statistical Estimation: Gradient Descent Converges Linearly for Phase Retrieval, Matrix Completion and Blind Deconvolution\n
 Cong Ma, Kaizheng Wang, Yuejie Chi, Yuxin Chen\n
 *Foundations of Computational Mathematics* 20 (3): 451–632, 2020.\n
-Short version accepted by International Conference on Machine Learning (ICML), 2018.\n
+Short version accepted by *International Conference on Machine Learning*, 2018.\n
 [https://arxiv.org/abs/1711.10467 arXiv]\n
 \n
 - Entrywise Eigenvector Analysis of Random Matrices with Low Expected Rank\n
