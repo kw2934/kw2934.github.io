@@ -10,6 +10,10 @@
 \n
 
 2024\n
+- Adaptive Transfer Clustering: A Unified Framework.\n
+Yuqi Gu, Zhongyuan Lyu$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
+[https://arxiv.org/abs/2410.21263/ arXiv] preprint arXiv:2410.21263, 2024.\n
+\n
 - Distribution-Free Predictive Inference under Unknown Temporal Drift.\n
 Elise Han$\dagger$, Chengpiao Huang$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
 [https://arxiv.org/abs/2406.06516/ arXiv] preprint arXiv:2406.06516, 2024.~~~~~~[https://github.com/eliselyhan/predictive-inference Code]\n

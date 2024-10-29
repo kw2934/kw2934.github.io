@@ -19,6 +19,7 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 
 == News
 
+- New paper "Adaptive Transfer Clustering: A Unified Framework" posted on [https://arxiv.org/abs/2410.21263 arXiv].
 - Paper "Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow" accepted by the Annals of Statistics.
 - New paper "Distribution-Free Predictive Inference under Unknown Temporal Drift" posted on [https://arxiv.org/abs/2406.06516 arXiv].
 - Paper "Model Assessment and Selection under Temporal Distribution Shift" accepted by ICML 2024. Congratulations to undergraduate student Elise Han on her first paper!
@@ -40,10 +41,9 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 ($\alpha$-$\beta$: author names are sorted alphabetically; $\dagger$: student/postdoc supervised.)\n
 \n
 
-- Model Assessment and Selection under Temporal Distribution Shift.\n
-Elise Han$\dagger$, Chengpiao Huang$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
-*International Conference on Machine Learning*, 2024.\n
-[https://arxiv.org/abs/2402.08672/ arXiv]~~~~~~[https://github.com/eliselyhan/ARW Code]\n
+- Adaptive Transfer Clustering: A Unified Framework.\n
+Yuqi Gu, Zhongyuan Lyu$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
+[https://arxiv.org/abs/2410.21263/ arXiv] preprint arXiv:2410.21263, 2024.\n
 \n
 - A Stability Principle for Learning under Non-Stationarity.\n
 Chengpiao Huang$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
