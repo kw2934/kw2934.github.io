@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{Photo/KW.jpeg}{alt text}{160}{240}
 
-I am an assistant professor in the [https://www.ieor.columbia.edu/ Department of Industrial Engineering and Operations Research] and a member of the [https://datascience.columbia.edu/ Data Science Institute] at [https://www.columbia.edu/ Columbia University]. My research interests lie at the intersection of statistics, machine learning and optimization.\n
+I am an assistant professor in the [https://www.ieor.columbia.edu/ Department of Industrial Engineering and Operations Research] and a member of the [https://datascience.columbia.edu/ Data Science Institute] at [https://www.columbia.edu/ Columbia University]. My research interests lie at the intersection of machine learning, statistics and optimization.\n
 \n
 E-mail: /kaizheng.wang/ \[@\] columbia \[DOT\] edu
 \n
@@ -15,26 +15,19 @@ E-mail: /kaizheng.wang/ \[@\] columbia \[DOT\] edu
 
 == Openings
 
-I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds and interests in statistics, machine learning and optimization.
+I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds and interests in machine learning, statistics and optimization.
 
 == News
 
 - *Postdoc Zhongyuan Lyu is on the academic job market*. Check out our new paper "Adaptive Transfer Clustering: A Unified Framework" on [https://arxiv.org/abs/2410.21263 arXiv].
-- I will be a meta-reviewer of COLT 2025.
-- Paper "Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow" accepted by the Annals of Statistics.
-- New paper "Distribution-Free Predictive Inference under Unknown Temporal Drift" posted on [https://arxiv.org/abs/2406.06516 arXiv].
+- I will be an Area Chair of ICML 2025 and a meta-reviewer of COLT 2025.
 - Paper "Model Assessment and Selection under Temporal Distribution Shift" accepted by ICML 2024. Congratulations to undergraduate student Elise Han on her first paper!
 - Our proposal on policy evaluation, transfer learning and the safety of autonomous vehicles got awarded the Data Science Institute Seed Fund by Columbia University.
 - Our [https://link.springer.com/article/10.1007/s10208-019-09429-9 paper] on implicit regularization in nonconvex statistical estimation received the [https://sinews.siam.org/Details-Page/may-prize-spotlight SIAM Activity Group on Imaging Science Best Paper Prize].
-- I will be an Area Chair of ICML 2024.
-- New paper "A Stability Principle for Learning under Non-Stationarity" posted on [https://arxiv.org/abs/2310.18304 arXiv]. Congratulations to Chengpiao Huang on his first paper!
+- I will be an Area Chair of ICML 2024 and a meta-reviewer of COLT 2024.
 - Our team (Chengpiao Huang, Yuhang Wu, and myself) won the *Second Place Award* in the [https://sites.google.com/view/dmdaworkshop2023/data-challenge 2023 INFORMS Blue Summit Supplies Data Challenge], along with a $1,000 cash prize. We also clinched the *top spot* in the two-week live test of pricing and forecasting with our own data integration techniques (Papers [https://arxiv.org/abs/2202.05250/ 1] and [https://arxiv.org/abs/2310.18304/ 2]). Special thanks to the INFORMS Data Mining Society and Blue Summit Supplies for putting together this wonderful competition!
-- I will be a meta-reviewer of COLT 2024.
 - Undergraduate student Yuhang Wu started his PhD at the Decision, Risk, and Operations (DRO) division at Columbia Business School. Congratulations!
-- New paper "Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift" posted on [https://arxiv.org/abs/2302.10160 arXiv].
-- I will be an Area Chair of ICML 2023.
 - Undergraduate student Sara Zhao received the prestigious Stephen D. Guarino Memorial Award, which is made annually to one member of the senior class of IEOR. Congratulations!
-- I will be an Area Chair of NeurIPS 2022.
 
 
 == Representative Publications
@@ -97,7 +90,7 @@ Yuxin Chen, Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
 
 == Funding
 
-Support from the following funding sources are gratefully acknowledged:
+Support from the following funding sources is gratefully acknowledged:
 
 - National Science Foundation (NSF) Grant DMS-2210907. Title: "Statistical and Computational Tools for Analyzing High-Dimensional Heterogeneous Data". Duration: Aug 2022 – Jul 2025. Role: PI.
 
