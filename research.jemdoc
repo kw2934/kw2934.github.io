@@ -1,7 +1,10 @@
 # jemdoc: menu{menu}{research.html}
 = Research Interests
 
-. Integrative data analysis: multi-task learning, meta-learning and transfer learning;. Latent variable models and representation learning;. Non-convex optimization and distributed optimization.
+- Integrative data analysis: multi-task learning, meta-learning and transfer learning;\n
+- Latent variable models and representation learning;\n
+- Non-convex optimization and distributed optimization.\n
+\n
 
 
 = Papers and Preprints
@@ -10,6 +13,14 @@
 \n
 
 2024\n
+- A Particle Algorithm for Mean-Field Variational Inference.\n
+Qiang Du, Kaizheng Wang, Edith Zhang, Chenyang Zhong ($\alpha$-$\beta$)\n
+[https://arxiv.org/abs/2412.20385/ arXiv] preprint arXiv:2412.20385, 2024.\n
+\n
+- Localized Exploration in Contextual Dynamic Pricing Achieves Dimension-Free Regret.\n
+Jinhang Chai, Yaqi Duan, Jianqing Fan, Kaizheng Wang ($\alpha$-$\beta$)\n
+[https://arxiv.org/abs/2412.19252/ arXiv] preprint arXiv:2412.19252, 2024.\n
+\n
 - Adaptive Transfer Clustering: A Unified Framework.\n
 Yuqi Gu, Zhongyuan Lyu$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
 [https://arxiv.org/abs/2410.21263/ arXiv] preprint arXiv:2410.21263, 2024.~~~~~~[https://github.com/ZhongyuanLyu/ATC Code]\n
