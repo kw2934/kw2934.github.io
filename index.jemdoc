@@ -19,7 +19,8 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 
 == News
 
-- Postdoc Zhongyuan Lyu will join the University of Sydney Business School (Discipline of Business Analytics) as a Lecturer (equivalent to US tenure-track Assistant Professor). Congratulations!.\n
+- New paper "Uncertainty Quantification for LLM-Based Survey Simulations" posted on [https://arxiv.org/abs/2502.17773/ arXiv].\n
+- Postdoc Zhongyuan Lyu will join the University of Sydney Business School as a Lecturer (equivalent to US tenure-track Assistant Professor) of Business Analytics. Congratulations!.\n
 - New paper "Transfer Learning of CATE with Kernel Ridge Regression" posted on [https://arxiv.org/abs/2502.11331/ arXiv].\n
 - New paper "A Particle Algorithm for Mean-Field Variational Inference" posted on [https://arxiv.org/abs/2412.20385/ arXiv].\n
 - New paper "Localized Exploration in Contextual Dynamic Pricing Achieves Dimension-Free Regret" posted on [https://arxiv.org/abs/2412.19252/ arXiv].\n
@@ -40,6 +41,10 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 ($\alpha$-$\beta$: author names are sorted alphabetically; $\dagger$: student/postdoc supervised.)\n
 \n
 
+- Uncertainty Quantification for LLM-Based Survey Simulations.\n
+Chengpiao Huang$\dagger$, Yuhang Wu, Kaizheng Wang\n
+[https://arxiv.org/abs/2502.17773/ arXiv] preprint arXiv:2502.17773, 2025.~~~~~~[https://github.com/yw3453/uq-llm-survey-simulation Code]\n
+\n
 - Adaptive Transfer Clustering: A Unified Framework.\n
 Yuqi Gu, Zhongyuan Lyu$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
 [https://arxiv.org/abs/2410.21263/ arXiv] preprint arXiv:2410.21263, 2024.~~~~~~[https://github.com/ZhongyuanLyu/ATC Code]\n
