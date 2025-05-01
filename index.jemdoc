@@ -19,7 +19,11 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 
 == News
 
-- Postdoc Zhongyuan Lyu will join the University of Sydney Business School (Discipline of Business Analytics) as a Lecturer (equivalent to US tenure-track Assistant Professor). Congratulations!.\n
+- Paper "Uncertainty Quantification for LLM-Based Survey Simulations" accepted by ICML 2025.\n
+- Paper "A Stability Principle for Learning under Non-Stationarity" accepted by Operations Research. Congratulations to PhD student Chengpiao Huang!\n
+- We (Cynthia Rush, Marco Avella Medina, and I) are organizing an [https://stat.columbia.edu/optimization-and-statistical-learning-workshop/ *Optimization and Statistical Learning Workshop*] on April 3-4.\n
+- Undergraduate student Elise Han will start her PhD in the Computer Science Department at Stanford University in Fall 2025. Congratulations!\n
+- Postdoc Zhongyuan Lyu will join the University of Sydney Business School as a Lecturer (equivalent to US tenure-track Assistant Professor) of Business Analytics. Congratulations!\n
 - New paper "Transfer Learning of CATE with Kernel Ridge Regression" posted on [https://arxiv.org/abs/2502.11331/ arXiv].\n
 - New paper "A Particle Algorithm for Mean-Field Variational Inference" posted on [https://arxiv.org/abs/2412.20385/ arXiv].\n
 - New paper "Localized Exploration in Contextual Dynamic Pricing Achieves Dimension-Free Regret" posted on [https://arxiv.org/abs/2412.19252/ arXiv].\n
@@ -40,12 +44,18 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 ($\alpha$-$\beta$: author names are sorted alphabetically; $\dagger$: student/postdoc supervised.)\n
 \n
 
+- Uncertainty Quantification for LLM-Based Survey Simulations.\n
+Chengpiao Huang$\dagger$, Yuhang Wu, Kaizheng Wang\n
+*International Conference on Machine Learning*, 2025.\n
+[https://arxiv.org/abs/2502.17773/ arXiv]~~~~~~[https://github.com/yw3453/uq-llm-survey-simulation Code]\n
+\n
 - Adaptive Transfer Clustering: A Unified Framework.\n
 Yuqi Gu, Zhongyuan Lyu$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
 [https://arxiv.org/abs/2410.21263/ arXiv] preprint arXiv:2410.21263, 2024.~~~~~~[https://github.com/ZhongyuanLyu/ATC Code]\n
 \n
 - A Stability Principle for Learning under Non-Stationarity.\n
 Chengpiao Huang$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
+*Operations Research* (accepted), 2025+.\n
 [https://arxiv.org/abs/2310.18304/ arXiv] preprint arXiv:2310.18304, 2023.~~~~~~[https://github.com/ch3702/SAWS Code]\n
 \n
 - Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift.\n
@@ -60,7 +70,7 @@ Yaqi Duan, Kaizheng Wang ($\alpha$-$\beta$)\n
 \n
 - Clustering a Mixture of Gaussians with Unknown Covariance\n
 Damek Davis, Mateo Díaz, Kaizheng Wang ($\alpha$-$\beta$)\n
-*Bernoulli*, Accepted.\n
+*Bernoulli* 31 (3): 2105-2126, 2025.\n
 [https://arxiv.org/abs/2110.01602/ arXiv] preprint arXiv:2110.01602, 2021.\n
 \n
 - An $\ell_p$ Theory of PCA and Spectral Clustering\n
