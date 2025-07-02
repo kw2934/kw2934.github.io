@@ -19,6 +19,7 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 
 == News
 
+- PhD student Chengpiao Huang received the [https://business.columbia.edu/demingcenter/research/doctoral-fellows/ Deming Doctoral Fellowship]. Congratulations!
 - PhD student Chengpiao Huang received the Best Student Presentation Award at the 38th New England Statistics Symposium (NESS 2025) for his presentation on the paper "Uncertainty Quantification for LLM-Based Survey Simulations." Congratulations!
 - PhD student Chengpiao Huang received the Outstanding Teaching Assistant Award, which is made annually to two PhD students at IEOR. Congratulations!
 - Paper "Uncertainty Quantification for LLM-Based Survey Simulations" accepted by ICML 2025.\n
@@ -49,7 +50,7 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 - Uncertainty Quantification for LLM-Based Survey Simulations.\n
 Chengpiao Huang$\dagger$, Yuhang Wu$\dagger$, Kaizheng Wang\n
 *International Conference on Machine Learning*, 2025.\n
-[https://arxiv.org/abs/2502.17773/ arXiv]~~~~~~[https://github.com/yw3453/uq-llm-survey-simulation Code]\n
+[https://arxiv.org/abs/2502.17773/ arXiv]~~~~~~[https://www.youtube.com/watch?v=87dL0DdoeDE Talk]~~~~~~[https://github.com/yw3453/uq-llm-survey-simulation Code]\n
 \n
 - Adaptive Transfer Clustering: A Unified Framework.\n
 Yuqi Gu, Zhongyuan Lyu$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
@@ -109,7 +110,7 @@ Yuxin Chen, Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
 
 Support from the following funding sources is gratefully acknowledged:
 
-- National Science Foundation (NSF) Grant DMS-2210907. Title: "Statistical and Computational Tools for Analyzing High-Dimensional Heterogeneous Data". Duration: Aug 2022 – Jul 2025. Role: PI.
+- National Science Foundation (NSF) Grant DMS-2210907. Title: "Statistical and Computational Tools for Analyzing High-Dimensional Heterogeneous Data". Duration: Aug 2022 – Jul 2026. Role: PI.
 
 - Columbia University Data Science Institute Seed Fund. Title: "Policy Evaluation with Transfer Learning: How to assess safety performance of self-driving cars in NYC?". Duration: Mar 2024 - Feb 2025. Role: Co-PI.
 
