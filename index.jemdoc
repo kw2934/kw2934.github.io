@@ -19,10 +19,11 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 
 == News
 
-- PhD student Chengpiao Huang received the [https://business.columbia.edu/demingcenter/research/doctoral-fellows/ Deming Doctoral Fellowship]. Congratulations!
-- PhD student Chengpiao Huang received the Best Student Presentation Award at the 38th New England Statistics Symposium (NESS 2025) for his presentation on the paper "Uncertainty Quantification for LLM-Based Survey Simulations." Congratulations!
-- PhD student Chengpiao Huang received the Outstanding Teaching Assistant Award, which is made annually to two PhD students at IEOR. Congratulations!
-- Paper "Uncertainty Quantification for LLM-Based Survey Simulations" accepted by ICML 2025.\n
+- Paper "Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift" accepted by the Annals of Statistics.\n
+- PhD student Chengpiao Huang received the [https://business.columbia.edu/demingcenter/research/doctoral-fellows/ Deming Doctoral Fellowship]. Congratulations!\n
+- PhD student Chengpiao Huang received the Best Student Presentation Award at the 38th New England Statistics Symposium (NESS 2025) for his presentation on the paper "Uncertainty Quantification for LLM-Based Survey Simulations." Congratulations!\n
+- PhD student Chengpiao Huang received the Outstanding Teaching Assistant Award, which is made annually to two PhD students at IEOR. Congratulations!\n
+- Paper "Uncertainty Quantification for LLM-Based Survey Simulations" accepted by ICML 2025. Congratulations to PhD students Chengpiao Huang and Yuhang Wu!\n
 - Paper "A Stability Principle for Learning under Non-Stationarity" accepted by Operations Research. Congratulations to PhD student Chengpiao Huang!\n
 - We (Cynthia Rush, Marco Avella Medina, and I) are organizing an [https://stat.columbia.edu/optimization-and-statistical-learning-workshop/ *Optimization and Statistical Learning Workshop*] on April 3-4.\n
 - Undergraduate student Elise Han will start her PhD in the Computer Science Department at Stanford University in Fall 2025. Congratulations!\n
@@ -34,7 +35,6 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 - New paper "Adaptive Transfer Clustering: A Unified Framework" posted on [https://arxiv.org/abs/2410.21263 arXiv].\n
 - Our [https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-4/An-%E2%84%93p-theory-of-PCA-and-spectral-clustering/10.1214/22-AOS2196.short paper] "An $\ell_p$ Theory of PCA and Spectral Clustering" received the [https://www.icbs.cn/site/pages/index/index?pageId=b6fd0ab2-ea16-4622-bd7d-92dfaabc0b59 2024 Frontier of Science Award] presented by the International Congress for Basic Science.\n
 - Paper "Model Assessment and Selection under Temporal Distribution Shift" accepted by ICML 2024. Congratulations to undergraduate student Elise Han on her first paper!\n
-- Our proposal on policy evaluation, transfer learning and the safety of autonomous vehicles got awarded the Data Science Institute Seed Fund by Columbia University.\n
 - Our [https://link.springer.com/article/10.1007/s10208-019-09429-9 paper] on implicit regularization in nonconvex statistical estimation received the [https://sinews.siam.org/Details-Page/may-prize-spotlight SIAM Activity Group on Imaging Science Best Paper Prize].\n
 - I will be an Area Chair of ICML 2024 and a meta-reviewer of COLT 2024.\n
 - Our team (Chengpiao Huang, Yuhang Wu, and myself) won the *Second Place Award* in the [https://sites.google.com/view/dmdaworkshop2023/data-challenge 2023 INFORMS Blue Summit Supplies Data Challenge], along with a \$1,000 cash prize. We also clinched the *top spot* in the two-week live test of pricing and forecasting with our own data integration techniques (Papers [https://arxiv.org/abs/2202.05250/ 1] and [https://arxiv.org/abs/2310.18304/ 2]). Special thanks to the INFORMS Data Mining Society and Blue Summit Supplies for putting together this wonderful competition!\n
@@ -59,47 +59,48 @@ Yuqi Gu, Zhongyuan Lyu$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
 - A Stability Principle for Learning under Non-Stationarity.\n
 Chengpiao Huang$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Operations Research* (accepted), 2025+.\n
-[https://arxiv.org/abs/2310.18304/ arXiv] preprint arXiv:2310.18304, 2023.~~~~~~[https://github.com/ch3702/SAWS Code]\n
+[https://arxiv.org/abs/2310.18304/ arXiv]~~~~~~[https://github.com/ch3702/SAWS Code]\n
 \n
 - Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift.\n
 Kaizheng Wang\n
+*Annals of Statistics* (accepted), 2025+.\n
 *Junior Researcher Award*, 2024 ICSA China Conference.\n
-[https://arxiv.org/abs/2302.10160/ arXiv] preprint arXiv:2302.10160, 2023.~~~~~~[https://www.youtube.com/watch?v=iB3RNarr4bA&list=PLgKuh-lKre120r9EsuQRuZ9FKQ3SZ6N0a&index=13 Talk]~~~~~~[https://github.com/kw2934/KRR Code]\n
+[https://arxiv.org/abs/2302.10160/ arXiv]~~~~~~[https://www.youtube.com/watch?v=iB3RNarr4bA&list=PLgKuh-lKre120r9EsuQRuZ9FKQ3SZ6N0a&index=13 Talk]~~~~~~[https://github.com/kw2934/KRR Code]\n
 \n
-- Adaptive and Robust Multi-Task Learning\n
+- Adaptive and Robust Multi-Task Learning.\n
 Yaqi Duan, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Annals of Statistics* 51(5): 2015-2039, 2023.\n
 [https://arxiv.org/abs/2202.05250/ arXiv]~~~~~~[https://github.com/kw2934/ARMUL/ Code]\n
 \n
-- Clustering a Mixture of Gaussians with Unknown Covariance\n
+- Clustering a Mixture of Gaussians with Unknown Covariance.\n
 Damek Davis, Mateo Díaz, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Bernoulli* 31 (3): 2105-2126, 2025.\n
-[https://arxiv.org/abs/2110.01602/ arXiv] preprint arXiv:2110.01602, 2021.\n
+[https://arxiv.org/abs/2110.01602/ arXiv]\n
 \n
-- An $\ell_p$ Theory of PCA and Spectral Clustering\n
+- An $\ell_p$ Theory of PCA and Spectral Clustering.\n
 Emmanuel Abbe, Jianqing Fan, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Annals of Statistics* 50(4): 2359-2385, 2022.\n
 *Frontiers of Science Award in Mathematics*, 2024 International Congress of Basic Science.\n
 Presented by Jianqing Fan at the *IMS Le Cam Lecture* at the 2021 Joint Statistical Meetings.\n
 [https://arxiv.org/abs/2006.14062 arXiv]\n
 \n
-- Entrywise Eigenvector Analysis of Random Matrices with Low Expected Rank\n
+- Entrywise Eigenvector Analysis of Random Matrices with Low Expected Rank.\n
 Emmanuel Abbe, Jianqing Fan, Kaizheng Wang, Yiqiao Zhong ($\alpha$-$\beta$)\n
 *Annals of Statistics* 48(3): 1452-1474, 2020.\n
 [https://arxiv.org/abs/1709.09565 arXiv]\n
 \n
-- Implicit Regularization in Nonconvex Statistical Estimation: Gradient Descent Converges Linearly for Phase Retrieval, Matrix Completion and Blind Deconvolution\n
+- Implicit Regularization in Nonconvex Statistical Estimation: Gradient Descent Converges Linearly for Phase Retrieval, Matrix Completion and Blind Deconvolution.\n
 Cong Ma, Kaizheng Wang, Yuejie Chi, Yuxin Chen\n
 *Foundations of Computational Mathematics* 20 (3): 451–632, 2020.\n
 *SIAM Activity Group on Imaging Science Best Paper Prize*, 2024.\n
 [https://arxiv.org/abs/1711.10467 arXiv]\n
 \n
-- Distributed Estimation of Principal Eigenspaces\n
+- Distributed Estimation of Principal Eigenspaces.\n
 Jianqing Fan, Dong Wang, Kaizheng Wang, Ziwei Zhu ($\alpha$-$\beta$)\n
 *Annals of Statistics* 47 (6): 3009-3031, 2019.\n
 [https://arxiv.org/abs/1702.06488 arXiv]\n
 \n
-- Spectral Method and Regularized MLE are both Optimal for Top-K Ranking\n
+- Spectral Method and Regularized MLE are both Optimal for Top-K Ranking.\n
 Yuxin Chen, Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Annals of Statistics* 47 (4): 2204-2235, 2019.\n
 [https://arxiv.org/abs/1707.09971 arXiv]\n
@@ -110,9 +111,11 @@ Yuxin Chen, Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
 
 Support from the following funding sources is gratefully acknowledged:
 
-- National Science Foundation (NSF) Grant DMS-2210907. Title: "Statistical and Computational Tools for Analyzing High-Dimensional Heterogeneous Data". Duration: Aug 2022 – Jul 2026. Role: PI.
+- National Institutes of Health (NIH) Grant 5R01AG087496. Title: "Statistical Framework for Unraveling Age-Dependent Genetic Landscape of Alzheimer's Disease and Related Dementias: Harnessing Large-Scale EHR and DNA-Biobank Integration". Duration: 2024 – 2029. Role: Co-PI.
 
-- Columbia University Data Science Institute Seed Fund. Title: "Policy Evaluation with Transfer Learning: How to assess safety performance of self-driving cars in NYC?". Duration: Mar 2024 - Feb 2025. Role: Co-PI.
+- National Science Foundation (NSF) Grant DMS-2210907. Title: "Statistical and Computational Tools for Analyzing High-Dimensional Heterogeneous Data". Duration: 2022 – 2026. Role: PI.
+
+- Columbia University Data Science Institute Seed Fund. Title: "Policy Evaluation with Transfer Learning: How to assess safety performance of self-driving cars in NYC?". Duration: 2024 - 2025. Role: Co-PI.
 
 
 == Miscellaneous

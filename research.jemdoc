@@ -51,12 +51,13 @@ Elise Han$\dagger$, Chengpiao Huang$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
 - A Stability Principle for Learning under Non-Stationarity.\n
 Chengpiao Huang$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Operations Research* (accepted), 2025+.\n
-[https://arxiv.org/abs/2310.18304/ arXiv] preprint arXiv:2310.18304, 2023.~~~~~~[https://github.com/ch3702/SAWS Code]\n
+[https://arxiv.org/abs/2310.18304/ arXiv]~~~~~~[https://github.com/ch3702/SAWS Code]\n
 \n
 - Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift.\n
 Kaizheng Wang\n
+*Annals of Statistics* (accepted), 2025+.\n
 *Junior Researcher Award*, 2024 ICSA China Conference.\n
-[https://arxiv.org/abs/2302.10160/ arXiv] preprint arXiv:2302.10160, 2023.~~~~~~[https://www.youtube.com/watch?v=iB3RNarr4bA&list=PLgKuh-lKre120r9EsuQRuZ9FKQ3SZ6N0a&index=13 Talk]~~~~~~[https://github.com/kw2934/KRR Code]\n
+[https://arxiv.org/abs/2302.10160/ arXiv]~~~~~~[https://www.youtube.com/watch?v=iB3RNarr4bA&list=PLgKuh-lKre120r9EsuQRuZ9FKQ3SZ6N0a&index=13 Talk]~~~~~~[https://github.com/kw2934/KRR Code]\n
 \n
 - Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow.\n
 Yuling Yan$*$, Kaizheng Wang$*$, Philippe Rigollet ($*$ = equal contribution)\n
@@ -77,106 +78,106 @@ Henry Lam, Kaizheng Wang, Yuhang Wu$\dagger$, Yichen Zhang ($\alpha$-$\beta$)\n
 Kaizheng Wang\n
 *Journal of the Royal Statistical Society Series B: Statistical Methodology* 85(4): 1068, 2023.\n
 \n
-- Adaptive and Robust Multi-Task Learning\n
+- Adaptive and Robust Multi-Task Learning.\n
 Yaqi Duan, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Annals of Statistics* 51(5): 2015-2039, 2023.\n
 [https://arxiv.org/abs/2202.05250/ arXiv]~~~~~~[https://github.com/kw2934/ARMUL/ Code]\n
 \n
 
 2021\n
-- Clustering a Mixture of Gaussians with Unknown Covariance\n
+- Clustering a Mixture of Gaussians with Unknown Covariance.\n
 Damek Davis, Mateo Díaz, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Bernoulli* 31 (3): 2105-2126, 2025.\n
-[https://arxiv.org/abs/2110.01602/ arXiv] preprint arXiv:2110.01602, 2021.\n
+[https://arxiv.org/abs/2110.01602/ arXiv]\n
 \n
-- Modern Data Modeling: Cross-Fertilization of the Two Cultures\n
+- Modern Data Modeling: Cross-Fertilization of the Two Cultures.\n
 Jianqing Fan, Cong Ma, Kaizheng Wang, Ziwei Zhu ($\alpha$-$\beta$)\n
 *Observational Studies* 7 (1): 65-76, 2021.\n
 \n
 
 2020\n
-- Comment on "A Tuning-Free Robust and Efficient Approach to High-Dimensional Regression"\n
+- Comment on "A Tuning-Free Robust and Efficient Approach to High-Dimensional Regression".\n
 Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Journal of the American Statistical Association* 115 (532): 1720-1725, 2020.\n
 \n
-- An $\ell_p$ Theory of PCA and Spectral Clustering\n
+- An $\ell_p$ Theory of PCA and Spectral Clustering.\n
 Emmanuel Abbe, Jianqing Fan, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Annals of Statistics* 50 (4): 2359-2385, 2022.\n
 *Frontiers of Science Award in Mathematics*, 2024 International Congress of Basic Science.\n
 Presented by Jianqing Fan at the *IMS Le Cam Lecture* at the 2021 Joint Statistical Meetings.\n
 [https://arxiv.org/abs/2006.14062 arXiv]\n
 \n
-- Efficient Clustering for Stretched Mixtures: Landscape and Optimality\n
+- Efficient Clustering for Stretched Mixtures: Landscape and Optimality.\n
 Kaizheng Wang, Yuling Yan, Mateo Díaz\n
 *Neural Information Processing Systems*, 2020.\n
 [https://arxiv.org/abs/2003.09960 arXiv]\n
 \n
 
 2019\n
-- Communication-Efficient Accurate Statistical Estimation\n
+- Communication-Efficient Accurate Statistical Estimation.\n
 Jianqing Fan, Yongyi Guo, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Journal of American Statistical Association* 118 (542): 1000-1010, 2023.\n
 [https://arxiv.org/abs/1906.04870 arXiv]\n
 \n
 
 2018\n
-- Robust High Dimensional Factor Models with Applications to Statistical Machine Learning\n
+- Robust High Dimensional Factor Models with Applications to Statistical Machine Learning.\n
 Jianqing Fan, Kaizheng Wang, Yiqiao Zhong, Ziwei Zhu ($\alpha$-$\beta$)\n
 *Statistical Science* 36 (2): 303-327, 2021.\n
 [https://arxiv.org/abs/1808.03889 arXiv]\n
 \n
 
 2017\n
-- Implicit Regularization in Nonconvex Statistical Estimation: Gradient Descent Converges Linearly for Phase Retrieval, Matrix Completion and Blind Deconvolution\n
+- Implicit Regularization in Nonconvex Statistical Estimation: Gradient Descent Converges Linearly for Phase Retrieval, Matrix Completion and Blind Deconvolution.\n
 Cong Ma, Kaizheng Wang, Yuejie Chi, Yuxin Chen\n
 *Foundations of Computational Mathematics* 20 (3): 451–632, 2020.\n
 *SIAM Activity Group on Imaging Science Best Paper Prize*, 2024.\n
 Short version accepted by *International Conference on Machine Learning*, 2018.\n
 [https://arxiv.org/abs/1711.10467 arXiv]\n
 \n
-- Entrywise Eigenvector Analysis of Random Matrices with Low Expected Rank\n
+- Entrywise Eigenvector Analysis of Random Matrices with Low Expected Rank.\n
 Emmanuel Abbe, Jianqing Fan, Kaizheng Wang, Yiqiao Zhong ($\alpha$-$\beta$)\n
 *Annals of Statistics* 48 (3): 1452-1474, 2020.\n
 [https://arxiv.org/abs/1709.09565 arXiv]\n
 \n
-- Spectral Method and Regularized MLE are both Optimal for Top-K Ranking\n
+- Spectral Method and Regularized MLE are both Optimal for Top-K Ranking.\n
 Yuxin Chen, Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Annals of Statistics* 47 (4): 2204-2235, 2019.\n
 [https://arxiv.org/abs/1707.09971 arXiv]\n
 \n
-- Distributed Estimation of Principal Eigenspaces\n
+- Distributed Estimation of Principal Eigenspaces.\n
 Jianqing Fan, Dong Wang, Kaizheng Wang, Ziwei Zhu ($\alpha$-$\beta$)\n
 *Annals of Statistics* 47 (6): 3009-3031, 2019.\n
 [https://arxiv.org/abs/1702.06488 arXiv]\n
 \n
 
 2016\n
-- Factor-Adjusted Regularized Model Selection\n
+- Factor-Adjusted Regularized Model Selection.\n
 Jianqing Fan, Yuan Ke, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Journal of Econometrics* 216 (1): 71-85, 2020.\n
 [https://arxiv.org/abs/1612.08490 arXiv]\n
 \n
 
 2015\n
-- Stochastic Representations for the Wave Equation on Graphs and Their Scaling Limits\n
+- Stochastic Representations for the Wave Equation on Graphs and Their Scaling Limits.\n
 Kaizheng Wang\n
 *Journal of Mathematical Analysis and Applications* 449 (1): 808-828, 2017.\n
 [https://arxiv.org/abs/1612.09025 arXiv]\n
 \n
 
 2014\n
-- On the Neumann Problem for Harmonic Functions in the Upper Half Plane\n
+- On the Neumann Problem for Harmonic Functions in the Upper Half Plane.\n
 Kaizheng Wang\n
 *Journal of Mathematical Analysis and Applications* 419 (2): 839-848, 2014.\n
 \n
 
 
 Notes\n
-- A Similarity Measure Between Functions with Applications to Statistical Learning and Optimization\n
+- A Similarity Measure Between Functions with Applications to Statistical Learning and Optimization.\n
 Chengpiao Huang$\dagger$, Kaizheng Wang\n
 [https://arxiv.org/abs/2501.08317 arXiv] preprint arXiv:2501.08317, 2025.\n
 \n
-- Some Compact Notations for Concentration Inequalities and User-Friendly Results\n
+- Some Compact Notations for Concentration Inequalities and User-Friendly Results.\n
 Kaizheng Wang\n
 [https://arxiv.org/abs/1912.13463 arXiv] preprint arXiv:1912.13463, 2019.\n
 
