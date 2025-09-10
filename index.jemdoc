@@ -19,34 +19,26 @@ I'm seeking highly motivated Ph.D. students with strong mathematical backgrounds
 
 == News
 
+- New paper "A Minimalist Bayesian Framework for Stochastic Optimization" posted on [https://arxiv.org/abs/2509.07030/ arXiv].\n
 - Paper "Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift" accepted by the Annals of Statistics.\n
 - PhD student Chengpiao Huang received the [https://business.columbia.edu/demingcenter/research/doctoral-fellows/ Deming Doctoral Fellowship]. Congratulations!\n
 - PhD student Chengpiao Huang received the Best Student Presentation Award at the 38th New England Statistics Symposium (NESS 2025) for his presentation on the paper "Uncertainty Quantification for LLM-Based Survey Simulations." Congratulations!\n
 - PhD student Chengpiao Huang received the Outstanding Teaching Assistant Award, which is made annually to two PhD students at IEOR. Congratulations!\n
 - Paper "Uncertainty Quantification for LLM-Based Survey Simulations" accepted by ICML 2025. Congratulations to PhD students Chengpiao Huang and Yuhang Wu!\n
 - Paper "A Stability Principle for Learning under Non-Stationarity" accepted by Operations Research. Congratulations to PhD student Chengpiao Huang!\n
-- We (Cynthia Rush, Marco Avella Medina, and I) are organizing an [https://stat.columbia.edu/optimization-and-statistical-learning-workshop/ *Optimization and Statistical Learning Workshop*] on April 3-4.\n
-- Undergraduate student Elise Han will start her PhD in the Computer Science Department at Stanford University in Fall 2025. Congratulations!\n
-- Postdoc Zhongyuan Lyu will join the University of Sydney Business School as a Lecturer (equivalent to US tenure-track Assistant Professor) of Business Analytics. Congratulations!\n
-- New paper "Transfer Learning of CATE with Kernel Ridge Regression" posted on [https://arxiv.org/abs/2502.11331/ arXiv].\n
-- New paper "A Particle Algorithm for Mean-Field Variational Inference" posted on [https://arxiv.org/abs/2412.20385/ arXiv].\n
-- New paper "Localized Exploration in Contextual Dynamic Pricing Achieves Dimension-Free Regret" posted on [https://arxiv.org/abs/2412.19252/ arXiv].\n
 - I will be an Area Chair of ICML 2025 and a meta-reviewer of COLT 2025.\n
-- New paper "Adaptive Transfer Clustering: A Unified Framework" posted on [https://arxiv.org/abs/2410.21263 arXiv].\n
 - Our [https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-4/An-%E2%84%93p-theory-of-PCA-and-spectral-clustering/10.1214/22-AOS2196.short paper] "An $\ell_p$ Theory of PCA and Spectral Clustering" received the [https://www.icbs.cn/site/pages/index/index?pageId=b6fd0ab2-ea16-4622-bd7d-92dfaabc0b59 2024 Frontier of Science Award] presented by the International Congress for Basic Science.\n
-- Paper "Model Assessment and Selection under Temporal Distribution Shift" accepted by ICML 2024. Congratulations to undergraduate student Elise Han on her first paper!\n
 - Our [https://link.springer.com/article/10.1007/s10208-019-09429-9 paper] on implicit regularization in nonconvex statistical estimation received the [https://sinews.siam.org/Details-Page/may-prize-spotlight SIAM Activity Group on Imaging Science Best Paper Prize].\n
 - I will be an Area Chair of ICML 2024 and a meta-reviewer of COLT 2024.\n
 - Our team (Chengpiao Huang, Yuhang Wu, and myself) won the *Second Place Award* in the [https://sites.google.com/view/dmdaworkshop2023/data-challenge 2023 INFORMS Blue Summit Supplies Data Challenge], along with a \$1,000 cash prize. We also clinched the *top spot* in the two-week live test of pricing and forecasting with our own data integration techniques (Papers [https://arxiv.org/abs/2202.05250/ 1] and [https://arxiv.org/abs/2310.18304/ 2]). Special thanks to the INFORMS Data Mining Society and Blue Summit Supplies for putting together this wonderful competition!\n
-- Undergraduate student Yuhang Wu started his PhD at the Decision, Risk, and Operations (DRO) division at Columbia Business School. Congratulations!\n
-- Undergraduate student Sara Zhao received the prestigious Stephen D. Guarino Memorial Award, which is made annually to one member of the senior class of IEOR. Congratulations!\n
-\n
 
 == Representative Publications
 
 ($\alpha$-$\beta$: author names are sorted alphabetically; $\dagger$: student/postdoc supervised.)\n
 \n
 
+- A Minimalist Bayesian Framework for Stochastic Optimization.\nKaizheng Wang\n
+[https://arxiv.org/abs/2509.07030/ arXiv] preprint arXiv:2509.07030, 2025.\n\n
 - Uncertainty Quantification for LLM-Based Survey Simulations.\n
 Chengpiao Huang$\dagger$, Yuhang Wu$\dagger$, Kaizheng Wang\n
 *International Conference on Machine Learning*, 2025.\n
@@ -111,6 +103,7 @@ Yuxin Chen, Jianqing Fan, Cong Ma, Kaizheng Wang ($\alpha$-$\beta$)\n
 
 Support from the following funding sources is gratefully acknowledged:
 
+- Columbia University SEAS GenAI in Education Initiative Grant. Duration: 2025 – 2026. Role: PI.
 - National Science Foundation (NSF) Grant DMS-2515679. Title: "Adaptive Data Integration: Harnessing Commonality amidst Heterogeneity". Duration: 2025 – 2028. Role: PI.
 
 - National Institutes of Health (NIH) Grant 5R01AG087496. Title: "Statistical Framework for Unraveling Age-Dependent Genetic Landscape of Alzheimer's Disease and Related Dementias: Harnessing Large-Scale EHR and DNA-Biobank Integration". Duration: 2024 – 2029. Role: Co-PI.

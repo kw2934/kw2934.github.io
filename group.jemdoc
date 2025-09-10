@@ -1,12 +1,6 @@
 # jemdoc: menu{menu}{group.html}
 = Research Group
 
-Postdoctoral Research Scientist\n
-- [https://zhongyuanlyu.github.io/ Zhongyuan Lyu]\n
-Data Science Institute Postdoc co-mentored with Yuqi Gu (Columbia Statistics).\n
-Incoming Lecturer (equivalent to US tenure-track Assistant Professor) of Business Analytics at the University of Sydney Business School.\n
-\n
-
 Ph.D. students\n
 - [https://ch3702.github.io/ Chengpiao Huang]\n
 Deming Doctoral Fellowship, 2025.\n
@@ -19,8 +13,10 @@ Second Place Award, 2023 INFORMS Blue Summit Supplies Data Challenge.\n
 \n
 
 Alumni\n
-- Elise Han\n
-Incoming PhD student in the Computer Science Department at Stanford University.\n
+- [https://zhongyuanlyu.github.io/ Zhongyuan Lyu] (Postdoc co-mentored with Yuqi Gu)\n
+Lecturer (equivalent to US tenure-track Assistant Professor) of Business Analytics at the University of Sydney Business School.\n
+- Elise Han (Undergraduate)\n
+PhD student in the Computer Science Department at Stanford University.\n
 INFORMS Scholarship and Bonomi Scholarship in 2024.\n
 *Paper 1:* Model Assessment and Selection under Temporal Distribution Shift.\n
 Elise Han, Chengpiao Huang, Kaizheng Wang ($\alpha$-$\beta$)\n
@@ -29,17 +25,18 @@ Elise Han, Chengpiao Huang, Kaizheng Wang ($\alpha$-$\beta$)\n
 *Paper 2:* Distribution-Free Predictive Inference under Unknown Temporal Drift.\n
 Elise Han$\dagger$, Chengpiao Huang$\dagger$, Kaizheng Wang ($\alpha$-$\beta$)\n
 [https://arxiv.org/abs/2406.06516/ arXiv] preprint arXiv:2406.06516, 2024.~~~~~~[https://github.com/kw2934/KRR Code]\n
-- Alan Ma\n
+- Alan Ma (Undergraduate)\n
 Data Science Institute scholarship, Spring 2025.\n
-- Caden Lin\n
-- Eric Chen (Undergraduate)\n
+- Caden Lin (Undergraduate)\n
+- Yuxi (Eric) Chen (Undergraduate)\n
+PhD student in the Department of Statistics and Data Science at Carnegie Mellon University.\n
 - Naomi Toft (Undergraduate)\n
 - Geraldine Nina Montano (Undergraduate)\n
 Bonomi Scholarship, Summer 2023.\n
 - Rain Wei (Undergraduate)\n
 Bonomi Scholarship, Summer 2023.\n
 - Yuhang Wu (Undergraduate)\n
-Now a PhD student at the Decision, Risk, and Operations (DRO) division at Columbia Business School.\n
+PhD student at the Decision, Risk, and Operations (DRO) division at Columbia Business School.\n
 Second Place Award in the 2023 INFORMS Blue Summit Supplies Data Challenge.\n
 *Paper:* Adaptive Data Fusion for Multi-Task Non-Smooth Optimization.\n
 Henry Lam, Kaizheng Wang, Yuhang Wu, Yichen Zhang ($\alpha$-$\beta$)\n

@@ -1,9 +1,11 @@
 # jemdoc: menu{menu}{research.html}
 = Research Interests
 
-- Integrative data analysis: multi-task learning, meta-learning and transfer learning;\n
+Learning and decision-making in complex environments:\n
+- Generative models and synthetic data;\n
+- Integrative data analysis: multi-task learning, transfer learning, non-stationary online learning;\n
 - Latent variable models and representation learning;\n
-- Non-convex optimization and distributed optimization.\n
+- Stochastic optimization and non-convex optimization.\n
 \n
 
 
@@ -13,6 +15,8 @@
 \n
 
 2025\n
+- A Minimalist Bayesian Framework for Stochastic Optimization.\nKaizheng Wang\n
+[https://arxiv.org/abs/2509.07030/ arXiv] preprint arXiv:2509.07030, 2025.\n\n
 - Uncertainty Quantification for LLM-Based Survey Simulations.\n
 Chengpiao Huang$\dagger$, Yuhang Wu$\dagger$, Kaizheng Wang\n
 *International Conference on Machine Learning*, 2025.\n
